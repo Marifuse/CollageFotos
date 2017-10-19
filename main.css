@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lobster Two', cursive;
+}
+.Sakura, .MarmaladeBoy, .Sango {
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+}
+.SailorMoon, .Mirumo, .Oscar {
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+}
+.texto1, .texto2, .texto3 {
+  position: relative;
+  color: white;
+  background-color: black;
+  opacity: 0.7;
+  bottom: 40px;
+  padding-right: 10px;
+  text-align: right;
+  font-weight: bold; /*Especifica peso de la letra. bold; Grueso ancho (negrita). Igual que 700.*/
+}
+.texto4, .texto5, .texto6 {
+  position: relative;
+  color: white;
+  background-color: black;
+  opacity: 0.7;
+  bottom: 40px;
+  padding-right: 10px;
+  text-align: right;
+  font-weight: bold;
+}
